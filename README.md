@@ -7,7 +7,8 @@ This uses the fastai libraries and approach.
 The jupyter notebook downloads the images from DuckDuckGo and stores it in the relevant folders.
 It then splits the data according to the splitter and seed setting in the code.
 
-The model training times and losses are depicted below. The first run is split out as it's not a fine-tuning run; the first iterations removes the model head before the finetuning starts;
+The model training times and losses are depicted below. The first run is split out as it's not a fine-tuning run; the first iterations removes the model head before the finetuning starts.
+
 ![Screenshot_20240321_192646](https://github.com/aspanner/smartAquaculture/assets/16040521/427a9b6c-eb31-4bbb-9971-ac07318d8c8a)
 
 To help with limited training data, data augmentation techniques are applied:
