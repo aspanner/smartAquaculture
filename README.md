@@ -26,5 +26,7 @@ The notebook also utilises a data cleansing tool built into the notebook to help
 This can be either through:
 - Correct prediction with low confidence
 - Wrong predictions (both with high or low confidence)
+
 ![Screenshot_20240321_193652](https://github.com/aspanner/smartAquaculture/assets/16040521/f0c436ec-85e1-400a-a628-792ef531861a)
+
 That's why the data sets needs to be QA'ed before going into production.
