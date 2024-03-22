@@ -30,3 +30,10 @@ This can be either through:
 ![Screenshot_20240321_193652](https://github.com/aspanner/smartAquaculture/assets/16040521/f0c436ec-85e1-400a-a628-792ef531861a)
 
 That's why the data sets needs to be QA'ed before going into production.
+
+#OpenShiftAI
+Install OpenShiftAI following the documentation or via applying the CRDs as per https://github.com/aspanner/aiml/tree/main/OpenShiftAI
+
+- then Git clone this repo to get access to the jupyter notebook
+- if issues arise, open a terminal (via the Launcher tab) and do a `pip upgrade` followed by a `pip install fastai'
+- Then follow the steps in the notebook
